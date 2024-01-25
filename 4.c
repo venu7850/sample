@@ -7,6 +7,7 @@ int main()
 	scanf("%d",&arr[i]);
 	swap(&arr[1],&arr[2]);
 	printf("%d,%d",arr[1],arr[2]);
+	printf("%d,%d",arr[1],arr[2]);
 }
 void swap(int *a,int *b)
 {
